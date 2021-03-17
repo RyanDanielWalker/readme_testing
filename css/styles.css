@@ -31,7 +31,14 @@ div.newer {
   font-style: oblique;
 }
 
-span.line {
+.line {
   color: maroon;
   font-size: 25px;
 }
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+
