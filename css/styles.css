@@ -20,3 +20,18 @@ p.author{
 p.have.as.many {
   color: purple;
 }
+
+.new {
+  color: brown;
+  font-size: 45px;
+}
+
+div.newer {
+  color: blue;
+  font-style: oblique;
+}
+
+span.line {
+  color: maroon;
+  font-size: 25px;
+}
