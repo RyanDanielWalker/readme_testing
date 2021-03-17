@@ -1,3 +1,9 @@
+body {
+  background: mediumaquamarine;
+  margin: 1rem;
+  padding: 1rem;
+}
+
 p.intro {
   width: 50%;
   font-style: italic;
@@ -37,8 +43,32 @@ div.newer {
 }
 
 .sidebar {
-  width: 30%;
+  width: 24%;
+  margin: 0.5%;
   float: right;
   background-color: yellow;
 }
 
+.sidebar > * {
+  padding: 15px;
+}
+
+ul {
+  margin-left: 12px;
+}
+
+li {
+  list-style-type: square;
+}
+
+.two {
+  background: green;
+}
+
+.three {
+  background: orange;
+}
+
+.four {
+  background: lightslategray;
+}
